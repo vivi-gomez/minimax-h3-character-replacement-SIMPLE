@@ -1,0 +1,177 @@
+[
+  {
+    "file": "CHANGELOG.md",
+    "bytes": 10581,
+    "sha256": "58c90a49776a75fa15b8fae19a21bfc9cf9a8a56875eef865c7baa4dd5e12a05"
+  },
+  {
+    "file": "ComfyUI/Start-MiniMax-H3-Studio.bat",
+    "bytes": 955,
+    "sha256": "2bb6981688e822078129500cbfcfef77c059b9b305ee835fb9569e7b052ed75d"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio-Support/README.txt",
+    "bytes": 1348,
+    "sha256": "58027b51c83a45e260e1b1addd17e85c51886fc5e25ed39f44a4c67954b17ee5"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio-Support/__init__.py",
+    "bytes": 1187,
+    "sha256": "cc81d141ad4c0481b75005154e3ff07b1df58472752bae535674b356ab3bd723"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio-Support/character_mask_frames.py",
+    "bytes": 1276,
+    "sha256": "9d858ec49cb2a876182f7866ad37258756bce2b85e1a9613740bd5d9d708fc3f"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio-Support/character_presets.py",
+    "bytes": 11349,
+    "sha256": "70645a7e44de6848cb4b6618890b77dd1e4ad84fdbbac3fd7845fe9c7d1f2795"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio-Support/character_video.py",
+    "bytes": 2122,
+    "sha256": "6246f7fee05ff2ad346c8ffc3915c02666a28bbc11a512afea88f8bbbea12693"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio-Support/legacy_loader.py",
+    "bytes": 2042,
+    "sha256": "61df4bc061483104b149dbe0501a257531452b53660ee9741549e1a5fe80c949"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio-Support/mask_controls.py",
+    "bytes": 13955,
+    "sha256": "c3c2bb45c94dfd31eb54d9e2adc220aee740773bd80ad185edfaf6e6d9471575"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio-Support/requirements.txt",
+    "bytes": 36,
+    "sha256": "15c45379b4ad5810d20faa8b66c177ac026ce3f473c9730088f206017e146297"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio-Support/safe.py",
+    "bytes": 3680,
+    "sha256": "e6271b79aa36fe80642b1c3738bc521416ce1a7209628097e27c1402fceb4d2b"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio-Support/streaming.py",
+    "bytes": 5844,
+    "sha256": "56b3ff9c15e9d44f75dd70008a6e255945fd1784145e1648d83854758a8655eb"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio-Support/workflow_controls.py",
+    "bytes": 3194,
+    "sha256": "e0efa0fe20adf049083451ac0ae40f5543c577aa0867aa355c9757694bef0dae"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/__init__.py",
+    "bytes": 1265,
+    "sha256": "15264e35545fba14e4b113c4a34c205c652266ad2406c0bf534f1914a946dfc0"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/attention_safety.py",
+    "bytes": 7312,
+    "sha256": "8ccc9ac890ee39cb9d80f84572cb01169ec737dfbca425152ef7a85fee02ad00"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/lora_upload.py",
+    "bytes": 5146,
+    "sha256": "0b45feafe00e8f664c9deac0589548c2dab0eaabcc0582f2901d500a15bf3a84"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/mapped_safetensors.py",
+    "bytes": 7016,
+    "sha256": "35df049ee5bc5f9526a16dd0a10cf2e7961bb8b01999214db30998935f0cfdd4"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/model_catalog.json",
+    "bytes": 11142,
+    "sha256": "22b40e900c90b4625f18e41884d141e48b0182cf1c01f7c6839ac7dccf8090ee"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/model_downloads.py",
+    "bytes": 15634,
+    "sha256": "ebdb712d31b805cf8a4715697b73550db656ff875d260058feb29f26f85621f0"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/requirements.txt",
+    "bytes": 35,
+    "sha256": "5bbbf856ada0d65defdfd9775d763703b11b0fa4a9ad5ad854d797b57857f48b"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/stability.py",
+    "bytes": 4095,
+    "sha256": "0ac9be740900326525c097af137e13e727626fa331d54b6d99146d812dc307f1"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/studio_generate.py",
+    "bytes": 14251,
+    "sha256": "c3cce44ac7c53f28c1a42a5c424604a88fc93f4b90ec0ef515b6d42496ba3bb1"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/studio_loras.py",
+    "bytes": 7214,
+    "sha256": "e7fd7252c12d16eb9b5a6a23422cc2d7b43bc7ceb7b119f1b3e7f66ce3c95c71"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/studio_media.py",
+    "bytes": 19122,
+    "sha256": "012f352525fba922e7bf6bc200ed0ad3345a2e07f45edf29a80c5235a0e72b14"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/web/character_presets.js",
+    "bytes": 16918,
+    "sha256": "23991cc15e64ec297b4314009b72f78bbc60ce35734a294f0437ade81b1d5e4e"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/web/model_downloads.js",
+    "bytes": 12301,
+    "sha256": "1148fc6b0467d20620ec9ed3352c30e389f8e54d282c9db83dce7dcc61450bbd"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/web/studio.js",
+    "bytes": 74687,
+    "sha256": "49a48420d0be10e4d57127a7b5b4bf71ec8daf74dc563dc56deb719185d8bf5b"
+  },
+  {
+    "file": "ComfyUI/custom_nodes/ComfyUI-H3-Studio/web/studio_loras.js",
+    "bytes": 17862,
+    "sha256": "8f1a53ec543cd4523ecace899d24f0917d8665cb781f0be81cdbc35c9909a7bd"
+  },
+  {
+    "file": "ComfyUI/h3_studio_start.py",
+    "bytes": 5675,
+    "sha256": "a41bcf5e7f258215dd06df506eed05e6e34d97933f54fb9825f94f6b6717df08"
+  },
+  {
+    "file": "ComfyUI/input/Barn_Owl_Studio/ttdl_7682374081630571806.mp4",
+    "bytes": 807782,
+    "sha256": "29c9cb3ae5890758d672b72351ed119a5791e2dab98273a04788d68c2b403d58"
+  },
+  {
+    "file": "ComfyUI/input/Character_Presets/96d7d762e76c496b8a9af0f4fe7f0d98.png",
+    "bytes": 2442908,
+    "sha256": "10d49aa4a03da2d2c2310b5c497532cbe8bd6bc1f95474fa875eb87c1bab9293"
+  },
+  {
+    "file": "ComfyUI/user/default/h3_character_presets/ced12d5efaf44a8c99a020157c5ed734.json",
+    "bytes": 503,
+    "sha256": "42ce06baba3226ebdfc0e980f6d87547e3fdb193256a7881728ff50fcb41465d"
+  },
+  {
+    "file": "ComfyUI/user/default/workflows/MiniMax H3 Studio.json",
+    "bytes": 46912,
+    "sha256": "c3bdb4888fdce505466d7f978df7c8535df8ce36c701d359f93c016fe6e5c36c"
+  },
+  {
+    "file": "MiniMax H3 Studio.json",
+    "bytes": 46912,
+    "sha256": "c3bdb4888fdce505466d7f978df7c8535df8ce36c701d359f93c016fe6e5c36c"
+  },
+  {
+    "file": "README.txt",
+    "bytes": 14002,
+    "sha256": "3bb1ad7e9352d3dc4a882735519bba3230f3b83b9ae0ad17ca926adf4a3ef800"
+  }
+]
